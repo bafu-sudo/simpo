@@ -1,0 +1,6 @@
+{
+  "name": "CreatorFlow",
+  "description": "CreatorFlow turns one idea into a week of high-converting social media content for creators and businesses using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
